@@ -1,36 +1,41 @@
 <h1 align="center">Hi 👋, I'm Boya Teja Srinivasulu</h1>
-<h3 align="center">Full Stack Developer | Java Developer | CSE Student</h3>
+<h3 align="center">Aspiring Cloud & DevOps Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-Passionate about building modern web applications and solving real-world problems through technology.
+Passionate about building innovative solutions through software development,Cloud Computing, and DevOps.
 </p>
 
 - 🎓 B.Tech CSE Student at Mohan Babu University
-- 💻 Skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, and Tailwind CSS
-- 🌱 Currently learning Data Structures & Algorithms and Advanced Backend Development
-- 🚀 Interested in Full Stack Development, Cloud Computing, and Software Engineering
-- 🏆 Top 5 Finalist at Daksh AI Hackathon for SDG, SASTRA University
-- 🎯 ISTE Club Coordinator at Mohan Babu University
+- 💼 Web Development Lead in **ISTE** at Mohan Babu University
+- 💻 Skilled in **Java, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Git, and GitHub**
+- 🌱 Currently learning **Data Structures & Algorithms (DSA) and ServiceNow**
+- 🚀 Interested in **Full Stack Development, Cloud Computing, and Software Engineering**
+- 🏆 3rd Prize Winner – NHETIS'25 Hackathon at GRIET
 - 📫 Reach me at: **boyateja3541@gmail.com**
+- 📄 Know about my experiences: **https://drive.google.com/file/d/1nFbusdksAmOJbrCgwm4iAUe30fM5v2AO/view?usp=sharing**
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,mysql" />
+<h3 align="left">🛠️ Tech Stack</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,tailwind,git,github,mysql,vscode" />
 </p>
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejasrinivasulu&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejasrinivasulu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-### 🔥 Streak Stats
+<h3 align="left">🔥 GitHub Streak</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasrinivasulu" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasrinivasulu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🌐 Connect with Me
-- GitHub: https://github.com/Tejasrinivasulu
-- Email: boyateja3541@gmail.com
+<h3 align="left">🌐 Connect With Me</h3>
 
-⭐ Always learning, building, and growing as a developer.
+- Portfolio: **https://teja-official.netlify.app/**
+- LinkedIn: **https://www.linkedin.com/in/boya-teja/**
+- GitHub: **https://github.com/Tejasrinivasulu**
 
+⭐ Always continues learning, building, and contributing to impactful technology solutions.
