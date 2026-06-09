@@ -5,10 +5,6 @@
 <h3 align="center">Aspiring Cloud & DevOps Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejasrinivasulu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
 Passionate about building innovative solutions through software development,Cloud Computing, and DevOps.
 </p>
 
