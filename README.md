@@ -23,7 +23,7 @@ Passionate about building innovative solutions through software development,Clou
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejasrinivasulu&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejasrinivasulu&theme=github-compact" />
 </p>
 
 <h3 align="left">🔥 GitHub Streak</h3>
@@ -53,4 +53,4 @@ Passionate about building innovative solutions through software development,Clou
 </a>
 </p>
 
-⭐ Always continues learning, building, and contributing to impactful technology solutions.
+                               ⭐ Always continues learning, building, and contributing to impactful technology solutions.
