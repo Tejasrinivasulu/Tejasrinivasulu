@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boyateja&label=Profile%20views&color=0e75b6&style=flat" alt="boyateja" /> </p>
 
-- 🌱 I’m currently learning **Advanced MongoDB Data Structures & Algorithms (DSA) with Java Backend Development Skills**
+- 🌱 I’m currently learning **Advanced MongoDB Data Structures & Algorithms (DSA) with Java**
 
 - 💬 Ask me about **React Tailwind CSS Express.js MongoDB**
 
