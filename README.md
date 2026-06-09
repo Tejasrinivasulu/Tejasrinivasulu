@@ -32,10 +32,25 @@ Passionate about building innovative solutions through software development,Clou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasrinivasulu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🌐 Connect With Me</h3>
 
-- Portfolio: **https://teja-official.netlify.app/**
-- LinkedIn: **https://www.linkedin.com/in/boya-teja/**
-- GitHub: **https://github.com/Tejasrinivasulu**
+<h3 align="left">🌐 Connect with Me</h3>
+
+<p align="left">
+<a href="https://teja-official.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/boya-teja/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Tejasrinivasulu" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" width="40" height="40"/>
+</a>
+</p>
 
 ⭐ Always continues learning, building, and contributing to impactful technology solutions.
