@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tejasrinivasulu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 <h1 align="center">Hi 👋, I'm Boya Teja Srinivasulu</h1>
 <h3 align="center">Aspiring Cloud & DevOps Enthusiast | Full Stack Developer</h3>
 
