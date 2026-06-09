@@ -34,9 +34,3 @@ Passionate about building modern web applications and solving real-world problem
 
 ⭐ Always learning, building, and growing as a developer.
 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boyateja&show_icons=true&locale=en" alt="boyateja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boyateja&" alt="boyateja" /></p>
