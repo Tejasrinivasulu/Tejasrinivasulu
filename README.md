@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boyateja&label=Profile%20views&color=0e75b6&style=flat" alt="boyateja" /> </p>
 
-- 🔭 I’m currently working on **HostelEase – Smart Hostel Room Booking System**
-
 - 🌱 I’m currently learning **Advanced MongoDB Data Structures & Algorithms (DSA) with Java Backend Development Skills**
-
-- 👯 I’m looking to collaborate on [I’m looking to collaborate on CraftSense – Empowering Artisans through Technology](https://github.com/Tejasrinivasulu/craftsense)
-
-- 🤝 I’m looking for help with [I’m looking for help with EndoSense – Intelligent Wellness Monitoring System](https://github.com/Tejasrinivasulu/healthcare-endosense)
 
 - 💬 Ask me about **React Tailwind CSS Express.js MongoDB**
 
