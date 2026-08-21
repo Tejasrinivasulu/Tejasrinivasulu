@@ -32,7 +32,7 @@ Passionate about building innovative solutions through software development,Clou
 <h3 align="left">🔥 GitHub Streak</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tejasrinivasulu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasrinivasulu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">🌐 Connect with Me</h3>
