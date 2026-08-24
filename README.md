@@ -35,7 +35,7 @@ Passionate about building innovative solutions through software development,Clou
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tejasrinivasulu" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🌐 Connect with Me</h3>
++
 
 <p align="left">
 <a href="https://teja-official.netlify.app/" target="_blank">
@@ -50,7 +50,7 @@ Passionate about building innovative solutions through software development,Clou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/u/boyateja939/" target="_blank">
   <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" width="40" height="40"/>
 </a>
 </p>
