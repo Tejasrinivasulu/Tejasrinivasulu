@@ -26,13 +26,15 @@ Passionate about building innovative solutions through software development,Clou
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tejasrinivasulu/Tejasrinivasulu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Tejasrinivasulu&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
-
 <h3 align="left">🔥 GitHub Streak</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tejasrinivasulu" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tejasrinivasulu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 +
