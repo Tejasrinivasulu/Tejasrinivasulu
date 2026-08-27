@@ -37,7 +37,7 @@ Passionate about building innovative solutions through software development,Clou
   <img src="https://streak-stats.demolab.com?user=Tejasrinivasulu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-+
+
 
 <p align="left">
 <a href="https://teja-official.netlify.app/" target="_blank">
