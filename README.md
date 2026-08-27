@@ -38,7 +38,7 @@ Passionate about building innovative solutions through software development,Clou
 </p>
 
 
-<h3 align="left">Connect Me k</h3>
+<h3 align="left">Connect Me </h3>
 <p align="left">
 <a href="https://teja-official.netlify.app/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
