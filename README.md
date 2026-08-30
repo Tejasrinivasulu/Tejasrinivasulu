@@ -15,7 +15,7 @@ Passionate about building innovative solutions through software development,Clou
 - 🚀 Interested in **Full Stack Development, Cloud Computing, and Software Engineering**
 - 🏆 3rd Prize Winner – NHETIS'25 Hackathon at GRIET
 - 📫 Reach me at: **boyateja3541@gmail.com**
-- 📄 Know about my experiences: **https://drive.google.com/file/d/1nFbusdksAmOJbrCgwm4iAUe30fM5v2AO/view?usp=sharing**
+- 📄 Know about my experiences: **https://drive.google.com/file/d/1Rg35Gqx_UllHDCDpQ9uFDrlg0crV899a/view?usp=sharing**
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
